@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ಶಾಲೆ ನಮ್ಮ</string>
+    <string name="welcome">ಶಾಲೆ ನಮ್ಮಗೆ ಸುಸ್ವಾಗತ</string>
+    <string name="select_role">ಮುಂದುವರಿಯಲು ನಿಮ್ಮ ಪಾತ್ರವನ್ನು ಆರಿಸಿ</string>
+    <string name="parent">ಪೋಷಕರು</string>
+    <string name="admin">ಶಾಲಾ ನಿರ್ವಾಹಕರು</string>
+    <string name="home">ಮುಖಪುಟ</string>
+    <string name="announcements">ಘೋಷಣೆಗಳು</string>
+    <string name="calendar">ಕ್ಯಾಲೆಂಡರ್</string>
+    <string name="profile">ಪ್ರೊಫೈಲ್</string>
+    <string name="daily_meal">ದೈನಂದಿನ ಊಟ</string>
+    <string name="facility_tour">ಸೌಲಭ್ಯ ಪ್ರವಾಸ</string>
+    <string name="student_stars">ವಿದ್ಯಾರ್ಥಿ ತಾರೆಗಳು</string>
+    <string name="feedback">ಪ್ರತಿಕ್ರಿಯೆ</string>
+    <string name="about_us">ನಮ್ಮ ಬಗ್ಗೆ</string>
+</resources>

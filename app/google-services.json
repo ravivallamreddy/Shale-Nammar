@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "163823938424",
+    "project_id": "shale-namma-ff6c3",
+    "storage_bucket": "shale-namma-ff6c3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163823938424:android:0f0008073716720ee5768d",
+        "android_client_info": {
+          "package_name": "com.example.shalenamma"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDauwQLLxyP9sYnXlY2y9Qrg4X-Fjzg-DM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,25 @@
+package com.example.shalenamma.ui.navigation
+
+sealed class Screen(val route: String, val label: String = "") {
+    data object Welcome : Screen("welcome")
+    data object RoleSelection : Screen("role_selection")
+    data object Login : Screen("login")
+    data object Register : Screen("register")
+    data object Home : Screen("home", "Home")
+    data object Dashboard : Screen("dashboard", "Dashboard")
+    data object Announcements : Screen("announcements", "News")
+    data object Calendar : Screen("calendar", "Calendar")
+    data object Profile : Screen("profile", "Profile")
+    data object DailyMeal : Screen("daily_meal", "Meals")
+    data object FacilityTour : Screen("facility_tour", "Tour")
+    data object StudentStars : Screen("student_stars", "Stars")
+    data object Feedback : Screen("feedback", "Feedback")
+    data object AdminDashboard : Screen("admin_dashboard", "Admin")
+    data object UploadMeal : Screen("upload_meal", "Upload")
+    data object Settings : Screen("settings", "Settings")
+    data object Notifications : Screen("notifications", "Notifications")
+    data object SchoolDetails : Screen("school_details", "About School")
+    data object Security : Screen("security", "Security")
+    object PostAnnouncement : Screen("post_announcement", "Post")
+    object UploadStudentStar : Screen("upload_student_star", "Upload Star")
+}
